@@ -27,7 +27,7 @@ import java.util.Map;
  * MAP Support class
  *
  * @author Fedorov Konstantin (mr.fedorov.konstantin@mail.ru)
- * @version 0.1
+ * @version 0.2.0-SNAPSHOT
  * Created on 27.04.2018.
  */
 public class MapUtils {
