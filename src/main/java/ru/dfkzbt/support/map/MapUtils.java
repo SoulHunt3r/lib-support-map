@@ -27,14 +27,11 @@ import java.util.Map;
  * MAP Support class
  *
  * @author Fedorov Konstantin (mr.fedorov.konstantin@mail.ru)
- * @version 0.1
+ * @version 0.2-SNAPSHOT
  * Created on 27.04.2018.
  */
 public class MapUtils {
     private final static Logger logger = LoggerFactory.getLogger(MapUtils.class);
-
-    private MapUtils() {
-    }
 
     /**
      * Form a list of keys that contain given value and return it

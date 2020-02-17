@@ -30,7 +30,7 @@ import static org.junit.Assert.assertArrayEquals;
  * Generic description
  *
  * @author Fedorov Konstantin (mr.fedorov.konstantin@mail.ru)
- * @version 0.1
+ * @version 0.2-SNAPSHOT
  * Created on 27.04.2018.
  */
 public class MapUtilsTest {
